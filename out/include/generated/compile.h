@@ -1,0 +1,7 @@
+/* This file is auto generated, version 7 */
+/* SMP PREEMPT */
+#define UTS_MACHINE "aarch64"
+#define UTS_VERSION "#7 SMP PREEMPT Sun Dec 14 17:37:06 UTC 2025"
+#define LINUX_COMPILE_BY "solleo"
+#define LINUX_COMPILE_HOST "kernel-build"
+#define LINUX_COMPILER "ZyC clang version 14.0.6 (https://github.com/llvm/llvm-project f28c006a5895fc0e329fe15fead81e37457cb1d1), LLD 14.0.6"
